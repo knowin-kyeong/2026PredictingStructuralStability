@@ -2,7 +2,7 @@ Model Backend for 2026 Structural Stability Physical Reasoning AI Challenge
 ============================================
 Summary
 ----------------
-### We placed 25th at private LB.
+### We achieved 3rd place (Public 18th, Private 25th) in the final ranking!
 
 This repository contains **the final version of code and models for submission** used for the 2026 Structural Stability Physical Reasoning AI Challenge hosted on DACON. ([Competition Link](https://dacon.io/competitions/official/236686))
 
@@ -11,6 +11,7 @@ Team Information
 - **Team Name: Placeholder**
 - **Public rank: 18th**
 - **Private rank: 25th**
+- **Final rank: 3rd**
 - **Private score: 0.02243**
 - **Team Members: knowin_kyeong (Team Leader), 긴카호**
 
